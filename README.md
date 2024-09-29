@@ -1,5 +1,5 @@
 # Walmart-Sales-Data-Analysis
-This project involves SQL analysis of a retail sales dataset to uncover insights on sales trends, customer behavior, and product performance. Key analyses include revenue by month, sales by product line, and time-based insights. It demonstrates proficiency in SQL with complex queries for data manipulation and business insights.
+In this project, I used SQL to analyze a retail sales dataset, uncovering insights on sales performance, customer preferences, and product trends. Key queries include total sales by product line, revenue by month, and customer behavior based on gender and type. I also performed time-based analysis, including sales by time of day and rating patterns. This project demonstrates my ability to work with complex SQL queries for data-driven decision-making.
 
 **Business Questions To Answer**
 1. How many unique city does that data have
